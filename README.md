@@ -271,9 +271,13 @@ netsh advfirewall firewall add rule name=Web_Block dir=out action=block protocol
 ```cmd
 netsh advfirewall firewall show rule name=Web_Block
 netsh advfirewall firewall delete rule name=Web_Block
+
 <img width="916" height="513" alt="image" src="https://github.com/user-attachments/assets/b5c4bfb4-6d32-4a46-a891-39b98114bf95" />
+
 <img width="903" height="487" alt="image" src="https://github.com/user-attachments/assets/22a44383-5bff-4af6-bb7a-93394514fbe8" />
+
 <img width="904" height="650" alt="image" src="https://github.com/user-attachments/assets/b9f42e8d-9ed8-4ae9-9164-195fc7491bbc" />
+
 <img width="908" height="620" alt="image" src="https://github.com/user-attachments/assets/5c36a6c0-e54f-46bd-b9b2-2d27e19b709a" />
 
 
